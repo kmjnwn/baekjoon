@@ -1,2 +1,3 @@
 # baekjoon
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+![Kmjnwn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjw7957&show_icons=true&theme=transparent)
